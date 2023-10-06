@@ -1,0 +1,48 @@
+h1, p{color: blueviolet;
+font-size: 50px;
+}
+
+
+
+
+#um {
+    color: rgb(17, 255, 0); 
+    font-size: 20px;
+    background-color: black;
+   }
+   #dois {
+    color: rgb(255, 0, 0);
+    font-size: 30px;
+    background-color: black; 
+   }
+   #tres {
+    color: rgb(253, 249, 0);
+    font-size: 40px;
+    background-color: black;
+   }
+   #quatro{
+    color: aqua;
+    font-size: 30px;
+    background-color: black;
+   }
+   #quadrado{
+    width: 300px;
+    height: 200px;
+    background-color: whitesmoke;
+   }
+   #bolinha{
+    width: 50px;
+    height: 50px;
+    background-color: rgb(255, 0, 0);
+    position: relative;
+     top: 70px;
+    left: 125px;
+    border-radius: 50%;
+   }
+   .abobora{
+    color: brown;
+    font-size: 20px;
+    text-align: center;
+    
+
+   }

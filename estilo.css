@@ -1,0 +1,10 @@
+h1{
+    color:rgb(5, 218, 255);
+    font-size: 52px; 
+    text-align: center;
+}
+
+p{
+    color: #b58; /* same as #bb5588 */
+}
+body{background-color: rgb(255, 196, 0);}
