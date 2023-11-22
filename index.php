@@ -12,10 +12,13 @@
     <?php
     include("menu.php");
     ?>
-    <img src="img/japao.jpg" alt="">
-    <div class="espaco"></div>
+    <img src="img/japao.jpg" class="img-fluid"width="1900" alt="">
+    <div class="espaco"> </div>
     <?php
     include("card.php"); 
+    ?>
+    <?php
+    include("rodape.php");
     ?>
 </body>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
