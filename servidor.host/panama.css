@@ -1,0 +1,15 @@
+.espaco{
+   height:60px
+}
+
+footer {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+	margin-top: 50px;
+} 
+
+#pola{
+	width: 1000px;
+}
